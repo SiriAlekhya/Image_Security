@@ -14,8 +14,14 @@ SecureImageUploader is a Java-based web application designed for enhanced data s
 Follow these steps to set up the SecureImageUploader locally:
 
 1. **Clone the Repository:**
+   Using Https
    ```bash
-   git clone https://github.com/your-username/SecureImageUploader.git
+   https://github.com/SiriAlekhya/Image_Security.git
+`
+  Using SSH
+   ```bash
+   git@github.com:SiriAlekhya/Image_Security.git
+```
 2. **Database Setup:**
 Set up a SQL database and update the connection details in src/main/resources/application.properties.
 3. **Run the Application:**
