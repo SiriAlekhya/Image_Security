@@ -19,8 +19,9 @@ Follow these steps to set up the SecureImageUploader locally:
    
    ```bash
    https://github.com/SiriAlekhya/Image_Security.git
-
+   ```
    Using SSH
+   
    ```bash
    git@github.com:SiriAlekhya/Image_Security.git
 
